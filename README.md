@@ -4,4 +4,4 @@ This is a simple readme file
 
 ## Heading
 
-I am another person changing this file.
+This text is just to cause conflict.
