@@ -4,4 +4,4 @@ This is a simple readme file
 
 ## Heading
 
-Random text here, hello and thank you.
+This text is just to cause conflict.
